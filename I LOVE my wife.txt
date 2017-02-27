@@ -1,1 +1,2 @@
 print("I LOVE my wife")
+print("I LOVE all other people")
